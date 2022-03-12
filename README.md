@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KayleeBeyene
 - 👀 I’m interested in making cool things
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 
 
 <!---
