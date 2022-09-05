@@ -1,4 +1,4 @@
-[![MasterHead](https://kayleebeyene.com/assets/profilejackpointing.png)](https://www.kayleebeyene.com)
+[![MasterHead](https://kayleebeyene.com/assets/codingBanner.png)](https://www.kayleebeyene.com)
 <h1 align="center">Hi 👋, I'm Kaylee Beyene</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 <img align="right" alt="Kaylee" width="400" src="https://kayleebeyene.com/assets/profilejackpointing.png">
