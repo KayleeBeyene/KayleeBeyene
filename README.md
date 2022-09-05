@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaylee Beyene</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
-
+<img align="right" alt="Kaylee" width="400" src="https://kayleebeyene.com/assets/profilejack.jpg">
 - 🔭 I’m currently working on **a React Portfolio**
 
 - 🌱 I’m currently learning **React, SQL, Next.js**
