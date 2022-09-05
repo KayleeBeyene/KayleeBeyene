@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [kayleebresume.com](kayleebresume.com)
 
-- ⚡ Fun fact **I am an average level skateboarder**
+- ⚡ Fun fact **🛹 I like to skateboard! 🛹**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
