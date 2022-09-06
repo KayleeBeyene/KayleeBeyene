@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **BeyeneK94@gmail.com**
 
-- 📄 Know about my experiences [kayleebresume.com](kayleebresume.com)
+- 📄 Know about my experiences <a href="https://kayleebresume.com" target="_blank">kayleebresume.com</a>
 
 - ⚡ Fun fact **🛹 I like to skateboard! 🛹**
 
