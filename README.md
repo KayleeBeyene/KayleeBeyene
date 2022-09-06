@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **React, SQL, Next.js**
 
-- 👨‍💻 All of my projects are available at [CodeByKaylee.com](CodeByKaylee.com)
+- 👨‍💻 All of my projects are available at <a href="https://codebykaylee.com" target="_blank">CodeByKaylee.com</a>
 
-- 📝 I regularly write articles on [CoderKaylee.com](CoderKaylee.com)
+- 📝 I regularly write articles on <a href="https://coderkaylee.com" target="_blank">CoderKaylee.com</a>
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
