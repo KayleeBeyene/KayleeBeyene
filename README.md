@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.kayleebeyene.com/images/home/calgary.webp)](https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/Kaylee%20Beyene%20(2).png))](https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/Kaylee%20Beyene%20(2).png)]
+![MasterHead](https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/Kaylee%20Beyene%20(2).png)
 <h1 align="center">Hi 👋, I'm Kaylee Beyene</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
 <img align="right" alt="Kaylee" width="400" src="https://www.kayleebeyene.com/images/about/smiletall.jpg">
