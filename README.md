@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/Kaylee%20Beyene%20(2).png)
 <h1 align="center">Hi 👋, I'm Kaylee Beyene</h1>
 <h3 align="center">A passionate web developer from Canada</h3>
-<img align="right" alt="Kaylee" width="400" src="https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/linkedin_profile_pic.jpeg">
+<img align="right" alt="Kaylee" width="200" src="https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/linkedin_profile_pic.jpeg">
 - 🔭 I’m currently working on **a React Portfolio**
 
 - 🌱 I'm currently studying
