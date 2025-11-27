@@ -4,12 +4,13 @@
 <img align="right" alt="Kaylee" width="200" src="https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/linkedin_profile_pic.jpeg">
 My journey into development started from a love of problem-solving and creating polished, user-focused experiences—skills I honed during my years in AV production. Now, I'm channeling that same attention to detail into building secure, modern web applications.
 </br>
+</br>
 I'm a creative professional transitioning into web development, bringing years of experience from audiovisual production. My background in video editing, motion graphics, and audio production taught me to obsess over the details, meet tight deadlines, and deliver polished work that connects with audiences—skills that translate perfectly into building intuitive, user-focused web experiences.
 
 ---
-🔭 I'm currently working on a Vitepress Portfolio
-🌱 I'm currently studying TypeScript, Python, and modern web development through Boot.dev
-⚡ Background: AV Production — I bring a creative, detail-oriented approach from my work in video editing, motion graphics, and audio production
+- 🔭 I'm currently working on a Vitepress Portfolio
+- 🌱 I'm currently studying TypeScript, Python, and modern web development through Boot.dev
+- ⚡ Background: AV Production — I bring a creative, detail-oriented approach from my work in video editing, motion graphics, and audio production
 
 
 # 💻 Tech Stack:
