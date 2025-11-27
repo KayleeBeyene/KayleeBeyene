@@ -5,7 +5,7 @@
 My journey into development started from a love of problem-solving and creating polished, user-focused experiences—skills I honed during my years in AV production. Now, I'm channeling that same attention to detail into building secure, modern web applications.
 </br>
 </br>
-I'm a creative professional transitioning into web development, bringing years of experience from audiovisual production. My background in video editing, motion graphics, and audio production taught me to obsess over the details, meet tight deadlines, and deliver polished work that connects with audiences—skills that translate perfectly into building intuitive, user-focused web experiences.
+I'm a creative professional transitioning into web development, bringing years of experience from audiovisual production. My background in video editing, motion graphics, and audio production taught me to obsess over the details, meet tight deadlines, and deliver polished work that connects with audiences. All skills that translate perfectly into building intuitive, user-focused web experiences.
 
 ---
 - 🔭 I'm currently working on a Vitepress Portfolio
@@ -23,10 +23,10 @@ I'm a creative professional transitioning into web development, bringing years o
 --->
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kayleebeyene&theme=catppuccin_mocha&hide_border=false" /></div>
 <br/>
-<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleebeyene&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayleebeyene&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
