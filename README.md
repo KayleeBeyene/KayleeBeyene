@@ -21,7 +21,7 @@ I'm a creative professional transitioning into web development, bringing years o
 ![](https://github-readme-stats.vercel.app/api?username=kayleebeyene&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
 --->
-<div align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=kayleebeyene&theme=catppuccin_mocha&hide_border=false)</div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kayleebeyene&theme=catppuccin_mocha&hide_border=false" /></div>
 <br/>
 <div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=kayleebeyene&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</div>
 
