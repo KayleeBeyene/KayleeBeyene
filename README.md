@@ -1,6 +1,6 @@
 ![MasterHead](https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/Kaylee%20Beyene%20(2).png)
 <h1 align="center">Hi 👋, I'm Kaylee Beyene</h1>
-<h3 align="center">A passionate web developer from Canada</h3>
+<h3 align="center">A passionate nerd from Canada</h3>
 <img align="right" alt="Kaylee" width="200" src="https://raw.githubusercontent.com/KayleeBeyene/KayleeBeyene/refs/heads/main/linkedin_profile_pic.jpeg">
 My journey into development started from a love of problem-solving and creating polished, user-focused experiences—skills I honed during my years in AV production. Now, I'm channeling that same attention to detail into building secure, modern web applications.
 </br>
